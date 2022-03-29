@@ -22,4 +22,4 @@
 
 
 
-### Run : npm run start
+### Run : npm  start
