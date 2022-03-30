@@ -2,7 +2,7 @@
 
 ===============================
 
-## first install dependencies Run : npm istall
+## first install dependencies Run : npm install
 
 ## If typescript is not installed on your device, use this command to install typescript : npm install typescript --save-dev
 
@@ -22,4 +22,4 @@
 
 
 
-### Run : npm run start
+### Run : npm  start
